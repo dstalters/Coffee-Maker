@@ -23,7 +23,7 @@
 
 #### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. This was eliminated by using a continuous Darcy-Weisbach equation (and therefore no step change) friction coefficient calculation between the laminar and turbulent Reynolds numbers (Lambda in graph below).
 
-![Darcy-Weisbach-Formula](/darcy_weisbach.png)
+![Darcy-Weisbach-Formula](/darcy_weisbach_formula.png)
 
 #### Previously a digitally converted PDF of the Moody diagram was used to tabulate and interpolate friction factor coefficients at each Reynolds number for the relative pipe roughness of silicone tubing. This posed issues in the circled transition region where large jumps in friction factor would prevent code from converging within a discrete time step solution and in fact prompted several flow rates to diverge when they encountered the transitional pipe flow region.
 
