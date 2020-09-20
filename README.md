@@ -20,4 +20,4 @@
 
 #### **Challenges**: Convergence of the friction losses in the tubing posed the largest difficulty in getting a working code as it would often diverge at particular fluid flow rates. This was eliminated by using a continuous (and therefore no step change) friction calculation between the laminar and turbulent Reynolds numbers. I also needed to interpolate a digitally converted PDF of the Moody diagram to use within the code so that friction factors could be found for each Reynolds number (changing constantly with flow rate) at each time step. Relative pipe roughness of silicone tubing was found using lookup tables.
 
-![Moody Diagram](/moody_diagram.png)
+![Moody Diagram](/moody_diagram.jpg)
