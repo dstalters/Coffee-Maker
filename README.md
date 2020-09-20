@@ -21,7 +21,7 @@
 
 ### Challenges:
 
-#### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. This was eliminated by using a continuous Darcy-Weisbach equation (and therefore no step change) friction coefficient calculation between the laminar and turbulent Reynolds numbers (Lambda in graph below).
+#### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. This was eliminated by using a continuous Darcy-Weisbach equation (and therefore no step change) friction coefficient calculation between the laminar and turbulent Reynolds numbers.
 
 ![Darcy-Weisbach-Formula](/darcy_weisbach_formula.png)
 
