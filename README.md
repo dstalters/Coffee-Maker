@@ -8,7 +8,7 @@
 
 #### This portion is what I came up with to eliminate a flow meter (not enough room to package in the 2”x4” space available in the tower) from the hot water supply line. It was initially written in Python for easy design visualization. It is, however, totally executable on a C++ Teensy 4.0 (no exclusive NumPy or other non-portable methods used) as it will be implemented in the final coffee maker.
 
-#### Description of Coffee Maker’s Core Functions:
+### Description of Coffee Maker’s Core Functions:
 
 #### 1. Based on the weight of beans ground, a total water need is determined by the machine (this satisfies requirement regarding coffee to water ratio)
 
