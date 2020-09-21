@@ -1,6 +1,6 @@
 # Coffee-Maker
 
-#### Everyone it would seem has been working on a quarantine project to keep them busy and sane these last months. Not to be left out, I am sharing a portion of what I have been working on.
+#### Everyone it would seem has been working on a quarantine project to keep them busy and sane these last months. Not to be left out of all this fun, I am sharing a portion of what I have been working on.
 
 #### I have been interested in making a “pour over” coffee maker for several years now but didn’t want to just throw together some 3D printer looking contraption that would eat up all my precious one-bedroom apartment counter space. Instead I opted to go for the impractical, dream shot coffee maker that would (and this was non-negotiable since all my ex-barista friends would tell me so) make a cup of coffee at exactly the right temperature (measured at the filter), exactly the right bean-to-water ratio (measured to the nearest gram), exactly the right pour pattern (no sprinklers or concentric circles… had to be a spiral), and at exactly the right flow rate (measured to the nearest ml/s). Additionally, the water flow I determined must be laminar when it exited the pour spout just so that it all looked very nice.
 
