@@ -6,6 +6,8 @@
 
 ![Coffee-Maker-Layout](/pictures/coffee_maker_layout_annotated.png)
 
+###### OML mockup with "schematic" overlayed to show gravity driven water flow path and dimension relevant to governance of flow rate.
+
 #### This was to my naive mind totally do-able. And to an extent it still is, but $1000 and 100+ hrs. later (and still counting) I can say with certainty that it is now unlikely I will ever do better (financially and sanity-wise) than if I had just gone to my friend’s shop (difficult in quarantine) and bought that $5 cup of coffee every day for the rest of my life. But here I am. Soon to have an excellent, hands-free coffee maker but still using my french press every morning...
 
 #### This portion is what I came up with to eliminate a flow meter (not enough room to package in the 2”x4” space available in the tower) from the hot water supply line. It was initially written in Python for easy design visualization. It is, however, totally executable on a C++ Teensy 4.0 (no exclusive NumPy or other non-portable methods used) as it will be implemented in the final coffee maker. Feel free to download and try out the sizing a new tank with the code snippets I have provided here to see how the design process works!
