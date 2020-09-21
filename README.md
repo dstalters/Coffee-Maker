@@ -34,7 +34,7 @@
 
 #### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. Previously a digitally converted PDF of the Moody diagram was used to tabulate and interpolate friction factor coefficients at each Reynolds number for the relative pipe roughness of silicone tubing. This posed issues in the circled transition region where large jumps in friction factor would prevent code from converging within a discrete time step solution and in fact prompted several flow rates to diverge when they encountered the transitional pipe flow region.
 
-![Moody-Diagram](/pictures/moody_diagram.jpg)
+![Moody-Diagram](/pictures/moody_diagram_annotated.jpg)
 
 ###### source: https://www.researchgate.net/figure/Moody-diagram-for-the-determination-of-flow-regimes-with-regard-to-internal-friction_fig1_235735436
 
