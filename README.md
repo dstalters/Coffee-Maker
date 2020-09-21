@@ -33,7 +33,7 @@
 
 
 
-![Darcy-Weisbach-Formula](/darcy_weisbach_formula.png)
+![Darcy-Weisbach-Formula](/DarcyWeisbachEqn_main.png)
 
 ###### source: https://en.wikipedia.org/wiki/Darcy_friction_factor_formulae
 
