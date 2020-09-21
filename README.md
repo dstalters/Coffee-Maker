@@ -38,7 +38,7 @@
 
 ###### source: https://www.researchgate.net/figure/Moody-diagram-for-the-determination-of-flow-regimes-with-regard-to-internal-friction_fig1_235735436
 
-This was eliminated by using a continuous Darcy-Weisbach equation (Cheng, 2008) friction factor calculation between the laminar and turbulent Reynolds numbers.
+This was overcome by using a continuous Darcy-Weisbach equation (Cheng, 2008) friction factor calculation between the laminar and turbulent Reynolds numbers.
 
 ![Darcy-Weisbach-Formula](/DarcyWeisbachEqn_main.png)
 
