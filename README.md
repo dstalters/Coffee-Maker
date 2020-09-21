@@ -31,6 +31,8 @@
 
 #### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. This was eliminated by using a continuous Darcy-Weisbach equation (Cheng, 2008) friction factor calculation between the laminar and turbulent Reynolds numbers.
 
+$`\sqrt{2}`$
+
 ![Darcy-Weisbach-Formula](/darcy_weisbach_formula.png)
 
 ###### source: https://en.wikipedia.org/wiki/Darcy_friction_factor_formulae
