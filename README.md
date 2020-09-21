@@ -25,7 +25,7 @@
 
 #### Residuals are shown for a converged time step within the final solution.
 
-![Residuals](/residuals.png)
+![Residuals](/residual.png)
 
 ### Challenges:
 
