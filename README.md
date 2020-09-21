@@ -25,6 +25,8 @@
 
 ![Darcy-Weisbach-Formula](/darcy_weisbach_formula.png)
 
+###### source: https://en.wikipedia.org/wiki/Darcy_friction_factor_formulae
+
 #### Previously a digitally converted PDF of the Moody diagram was used to tabulate and interpolate friction factor coefficients at each Reynolds number for the relative pipe roughness of silicone tubing. This posed issues in the circled transition region where large jumps in friction factor would prevent code from converging within a discrete time step solution and in fact prompted several flow rates to diverge when they encountered the transitional pipe flow region.
 
 
