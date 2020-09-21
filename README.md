@@ -29,22 +29,22 @@
 
 ### Challenges:
 
-#### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. This was eliminated by using a continuous Darcy-Weisbach equation (Cheng, 2008) friction factor calculation between the laminar and turbulent Reynolds numbers.
+#### Convergence of the friction losses in the tubing posed the largest difficulty in getting a working (convergent) code as it would often diverge at certain critical flow rates. Previously a digitally converted PDF of the Moody diagram was used to tabulate and interpolate friction factor coefficients at each Reynolds number for the relative pipe roughness of silicone tubing. This posed issues in the circled transition region where large jumps in friction factor would prevent code from converging within a discrete time step solution and in fact prompted several flow rates to diverge when they encountered the transitional pipe flow region.
 
+![Moody-Diagram](/moody_diagram.jpg)
 
+###### source: https://www.researchgate.net/figure/Moody-diagram-for-the-determination-of-flow-regimes-with-regard-to-internal-friction_fig1_235735436
+
+This was eliminated by using a continuous Darcy-Weisbach equation (Cheng, 2008) friction factor calculation between the laminar and turbulent Reynolds numbers.
 
 ![Darcy-Weisbach-Formula](/DarcyWeisbachEqn_main.png)
 
 #### where:
 
-![Darcy-Weisbach-Coef-a](/DarcyWeisbachCoef_a.png)
+![Darcy-Weisbach-Coef-a](/DarcyWeisbachCoef_a.png)  
+
 ![Darcy-Weisbach-Coef-b](/DarcyWeisbachCoef_b.png)
 
 ###### source: https://en.wikipedia.org/wiki/Darcy_friction_factor_formulae
 
-#### Previously a digitally converted PDF of the Moody diagram was used to tabulate and interpolate friction factor coefficients at each Reynolds number for the relative pipe roughness of silicone tubing. This posed issues in the circled transition region where large jumps in friction factor would prevent code from converging within a discrete time step solution and in fact prompted several flow rates to diverge when they encountered the transitional pipe flow region.
 
-
-![Moody-Diagram](/moody_diagram.jpg)
-
-###### source: https://www.researchgate.net/figure/Moody-diagram-for-the-determination-of-flow-regimes-with-regard-to-internal-friction_fig1_235735436
